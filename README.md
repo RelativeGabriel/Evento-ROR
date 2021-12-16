@@ -80,8 +80,6 @@ Camel case e snake case são formas de escrever palavras simples ou compostas, s
 
 Essas formas de escrever palavras serão utilizadas na criação de métodos em nosso projeto. Será falado, quando necessário, quando se deve optar por um ou outro.
 
-<br>
-
 #
 
 ## <p style="background-color: white; color: black; padding: 5px 10px;">Codando nossa aplicação</p>
