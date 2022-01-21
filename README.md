@@ -79,9 +79,3 @@ Camel case e snake case são formas de escrever palavras simples ou compostas, s
 * **Snake case**: primeira letra minúscula e demais palavras separadas por underlines. Por exemplo: traz nota = traz_nota; pula corda = pula_corda.
 
 Essas formas de escrever palavras serão utilizadas na criação de métodos em nosso projeto. Será falado, quando necessário, quando se deve optar por um ou outro.
-
-#
-
-## <p style="background-color: white; color: black; padding: 5px 10px;">Codando nossa aplicação</p>
-
-**O CONTEÚDO SERÁ DISPONIBILIZADO APÓS O DIA 18/12**
